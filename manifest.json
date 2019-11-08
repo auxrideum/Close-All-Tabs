@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "(C)lose (A)ll (T)abs",
+	"version": "0.1",
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon32.png",
+		"128": "icon128.png"
+	},
+	"background" : {
+		"scripts" : ["background.js"]
+	},
+	"permissions": ["activeTab"],
+	"browser_action": {}
+}
