@@ -4,6 +4,6 @@
 
 `git clone https://github.com/auxrideum/Close-All-Tabs`
 
-Head to **chrome://extensions/**
-Enable developer mode
-Load unpacked extension
+1. Head to **chrome://extensions/**
+2. Enable developer mode
+3. Load unpacked extension
