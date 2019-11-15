@@ -2,6 +2,8 @@
 
 ------------
 
-> git clone https://github.com/auxrideum/Close-All-Tabs
+`git clone https://github.com/auxrideum/Close-All-Tabs`
 
-- [chrome://extensions/](chrome://extensions/)
+Head to **chrome://extensions/**
+Enable developer mode
+Load unpacked extension
